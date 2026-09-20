@@ -1,4 +1,5 @@
 # TechFlow Solutions Website
+[![Deploy to GitHub Pages](https://github.com/Ronan-Chr/COMPSVIII-Assignment2/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ronan-Chr/COMPSVIII-Assignment2/actions/workflows/deploy.yml)
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
@@ -81,6 +82,8 @@ This project is designed to practice professional development workflows includin
 This is a learning project for practicing collaborative development workflows. Follow the assignment instructions for contributing to this repository.
 
 ## License
+
+
 
 This project is for educational purposes.
 
